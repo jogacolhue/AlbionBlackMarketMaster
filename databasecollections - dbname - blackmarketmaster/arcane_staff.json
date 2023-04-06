@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9cf"
+  },
+  "UniqueName": "T3_MAIN_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d0"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d1"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d2"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d3"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d4"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d5"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d6"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d7"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d8"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9d9"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9da"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9db"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9dc"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9dd"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9de"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9df"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e0"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e1"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e2"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e3"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e4"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e5"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e6"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e7"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e8"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9e9"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9ea"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9eb"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9ec"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9ed"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9ee"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9ef"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f0"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f1"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f2"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f3"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f4"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f5"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f6"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f7"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f8"
+  },
+  "UniqueName": "T4_2H_ENIGMATICSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9f9"
+  },
+  "UniqueName": "T4_2H_ENIGMATICSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9fa"
+  },
+  "UniqueName": "T4_2H_ENIGMATICSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9fb"
+  },
+  "UniqueName": "T4_2H_ENIGMATICSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9fc"
+  },
+  "UniqueName": "T5_2H_ENIGMATICSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9fd"
+  },
+  "UniqueName": "T5_2H_ENIGMATICSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9fe"
+  },
+  "UniqueName": "T5_2H_ENIGMATICSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42d9ff"
+  },
+  "UniqueName": "T5_2H_ENIGMATICSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da00"
+  },
+  "UniqueName": "T6_2H_ENIGMATICSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da01"
+  },
+  "UniqueName": "T6_2H_ENIGMATICSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da02"
+  },
+  "UniqueName": "T6_2H_ENIGMATICSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da03"
+  },
+  "UniqueName": "T6_2H_ENIGMATICSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da04"
+  },
+  "UniqueName": "T7_2H_ENIGMATICSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da05"
+  },
+  "UniqueName": "T7_2H_ENIGMATICSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da06"
+  },
+  "UniqueName": "T7_2H_ENIGMATICSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da07"
+  },
+  "UniqueName": "T7_2H_ENIGMATICSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da08"
+  },
+  "UniqueName": "T8_2H_ENIGMATICSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da09"
+  },
+  "UniqueName": "T8_2H_ENIGMATICSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da0a"
+  },
+  "UniqueName": "T8_2H_ENIGMATICSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da0b"
+  },
+  "UniqueName": "T8_2H_ENIGMATICSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da0c"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da0d"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da0e"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da0f"
+  },
+  "UniqueName": "T4_MAIN_ARCANESTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da10"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da11"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da12"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da13"
+  },
+  "UniqueName": "T5_MAIN_ARCANESTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da14"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da15"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da16"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da17"
+  },
+  "UniqueName": "T6_MAIN_ARCANESTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da18"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da19"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da1a"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da1b"
+  },
+  "UniqueName": "T7_MAIN_ARCANESTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da1c"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da1d"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da1e"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da1f"
+  },
+  "UniqueName": "T8_MAIN_ARCANESTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da20"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da21"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da22"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da23"
+  },
+  "UniqueName": "T4_2H_ARCANESTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da24"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da25"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da26"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da27"
+  },
+  "UniqueName": "T5_2H_ARCANESTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da28"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da29"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da2a"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da2b"
+  },
+  "UniqueName": "T6_2H_ARCANESTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da2c"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da2d"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da2e"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da2f"
+  },
+  "UniqueName": "T7_2H_ARCANESTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da30"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da31"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da32"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da33"
+  },
+  "UniqueName": "T8_2H_ARCANESTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da34"
+  },
+  "UniqueName": "T4_2H_ENIGMATICORB_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da35"
+  },
+  "UniqueName": "T4_2H_ENIGMATICORB_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da36"
+  },
+  "UniqueName": "T4_2H_ENIGMATICORB_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da37"
+  },
+  "UniqueName": "T4_2H_ENIGMATICORB_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da38"
+  },
+  "UniqueName": "T5_2H_ENIGMATICORB_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da39"
+  },
+  "UniqueName": "T5_2H_ENIGMATICORB_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da3a"
+  },
+  "UniqueName": "T5_2H_ENIGMATICORB_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da3b"
+  },
+  "UniqueName": "T5_2H_ENIGMATICORB_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da3c"
+  },
+  "UniqueName": "T6_2H_ENIGMATICORB_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da3d"
+  },
+  "UniqueName": "T6_2H_ENIGMATICORB_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da3e"
+  },
+  "UniqueName": "T6_2H_ENIGMATICORB_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da3f"
+  },
+  "UniqueName": "T6_2H_ENIGMATICORB_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da40"
+  },
+  "UniqueName": "T7_2H_ENIGMATICORB_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da41"
+  },
+  "UniqueName": "T7_2H_ENIGMATICORB_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da42"
+  },
+  "UniqueName": "T7_2H_ENIGMATICORB_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da43"
+  },
+  "UniqueName": "T7_2H_ENIGMATICORB_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da44"
+  },
+  "UniqueName": "T8_2H_ENIGMATICORB_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da45"
+  },
+  "UniqueName": "T8_2H_ENIGMATICORB_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f469a5f491a3c42da46"
+  },
+  "UniqueName": "T8_2H_ENIGMATICORB_MORGANA@2"
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c4e"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c4c"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c4f"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c50"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c51"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c52"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c54"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c53"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c4d"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c57"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c58"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c59"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c5a"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c5b"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c5c"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c55"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c56"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c5d"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c5e"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54512e3bb4fd49bc197c5f"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_FIBER@3"
+}]

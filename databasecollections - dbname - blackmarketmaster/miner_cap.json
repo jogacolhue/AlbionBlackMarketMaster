@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d15"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d16"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d14"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d18"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d19"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d1a"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d1b"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d17"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d1c"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d20"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d1e"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d21"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d1f"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d1d"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d22"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d23"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d24"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d25"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d26"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cec3bb4fd49bc197d27"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_ORE@3"
+}]

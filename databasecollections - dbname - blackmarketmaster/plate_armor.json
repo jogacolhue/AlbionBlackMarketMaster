@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe711"
+  },
+  "UniqueName": "T3_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe713"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe710"
+  },
+  "UniqueName": "T2_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe712"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe714"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe716"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe715"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe717"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe718"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe719"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe71c"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe71d"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe71a"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe71f"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe71e"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe720"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe721"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe71b"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe722"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe725"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe724"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe723"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe726"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe727"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe728"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe729"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe72a"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe72b"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe72e"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe72f"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe730"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe72c"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe72d"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe731"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe732"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe733"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe734"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe735"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe737"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe739"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe738"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe73a"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe73b"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe73c"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe736"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe73d"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe73e"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe73f"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe741"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe740"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe745"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe743"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe746"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe742"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe747"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe748"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe749"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe74a"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe74b"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe744"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe74d"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe74e"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe750"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe751"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe74f"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe752"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe74c"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe754"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe755"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe753"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe757"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe758"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe756"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe759"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe75a"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe75b"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe75f"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe75e"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe75c"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe760"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe761"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe762"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe75d"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe763"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe764"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe765"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe766"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe768"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe769"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe76b"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe76a"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe767"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe76c"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe76d"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe76e"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe771"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe772"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe773"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe774"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe76f"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe770"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe777"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe779"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe77a"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe775"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe776"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe77b"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe778"
+  },
+  "UniqueName": "T4_ARMOR_PLATE_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe77c"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe77d"
+  },
+  "UniqueName": "T5_ARMOR_PLATE_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe77e"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe780"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe781"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe782"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe77f"
+  },
+  "UniqueName": "T6_ARMOR_PLATE_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe783"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe785"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe784"
+  },
+  "UniqueName": "T7_ARMOR_PLATE_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe786"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bf4c4305e526049fe787"
+  },
+  "UniqueName": "T8_ARMOR_PLATE_KEEPER@1"
+}]

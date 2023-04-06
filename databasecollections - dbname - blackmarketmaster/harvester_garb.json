@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c13"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c12"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c14"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c16"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c17"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c10"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c11"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c18"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c15"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c1c"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c1d"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c1e"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c1f"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c20"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c1b"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c21"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c1a"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c19"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c22"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e544e8a3bb4fd49bc197c23"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_FIBER@3"
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d03"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d00"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d01"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d02"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d04"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d05"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d06"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d07"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d08"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d0c"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d0a"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d0d"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d0e"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d0b"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d09"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d0f"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d11"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d10"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d12"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548ce33bb4fd49bc197d13"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_ORE@3"
+}]

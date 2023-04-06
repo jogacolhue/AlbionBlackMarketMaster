@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "5e5444bb6d342549bc988036"
+  },
+  "Name": "Harvester Backpack",
+  "Type": "harvester_backpack"
+},{
+  "_id": {
+    "$oid": "5e5446eb6d342549bc988037"
+  },
+  "Name": "Harvester Cap",
+  "Type": "harvester_cap"
+},{
+  "_id": {
+    "$oid": "5e5444a86d342549bc988035"
+  },
+  "Name": "Harvester Garb",
+  "Type": "harvester_garb"
+},{
+  "_id": {
+    "$oid": "5e5447056d342549bc988038"
+  },
+  "Name": "Harvester Workboots",
+  "Type": "harvester_workboots"
+},{
+  "_id": {
+    "$oid": "5e5447326d342549bc98803a"
+  },
+  "Name": "Fisherman Backpack",
+  "Type": "fisherman_backpack"
+},{
+  "_id": {
+    "$oid": "5e54471d6d342549bc988039"
+  },
+  "Name": "Fisherman Garb",
+  "Type": "fisherman_garb"
+},{
+  "_id": {
+    "$oid": "5e54475b6d342549bc98803c"
+  },
+  "Name": "Fisherman Boots",
+  "Type": "fisherman_boots"
+},{
+  "_id": {
+    "$oid": "5e5447726d342549bc98803d"
+  },
+  "Name": "Skinner Garb",
+  "Type": "skinner_garb"
+},{
+  "_id": {
+    "$oid": "5e5447476d342549bc98803b"
+  },
+  "Name": "Fisherman Cap",
+  "Type": "fisherman_cap"
+},{
+  "_id": {
+    "$oid": "5e5447aa6d342549bc988040"
+  },
+  "Name": "Skinner Workboots",
+  "Type": "skinner_workboots"
+},{
+  "_id": {
+    "$oid": "5e54479a6d342549bc98803f"
+  },
+  "Name": "Skinner Cap",
+  "Type": "skinner_cap"
+},{
+  "_id": {
+    "$oid": "5e5447c46d342549bc988041"
+  },
+  "Name": "Miner Garb",
+  "Type": "miner_garb"
+},{
+  "_id": {
+    "$oid": "5e5447df6d342549bc988042"
+  },
+  "Name": "Miner Backpack",
+  "Type": "miner_backpack"
+},{
+  "_id": {
+    "$oid": "5e5447f26d342549bc988043"
+  },
+  "Name": "Miner Cap",
+  "Type": "miner_cap"
+},{
+  "_id": {
+    "$oid": "5e5448796d342549bc988044"
+  },
+  "Name": "Miner Workboots",
+  "Type": "miner_workboots"
+},{
+  "_id": {
+    "$oid": "5e5448996d342549bc988045"
+  },
+  "Name": "Quarrier Garb",
+  "Type": "quarrier_garb"
+},{
+  "_id": {
+    "$oid": "5e5447896d342549bc98803e"
+  },
+  "Name": "Skinner Backpack",
+  "Type": "skinner_backpack"
+},{
+  "_id": {
+    "$oid": "5e5448b56d342549bc988046"
+  },
+  "Name": "Quarrier Backpack",
+  "Type": "quarrier_backpack"
+},{
+  "_id": {
+    "$oid": "5e5448c56d342549bc988047"
+  },
+  "Name": "Quarrier Cap",
+  "Type": "quarrier_cap"
+},{
+  "_id": {
+    "$oid": "5e5449006d342549bc98804a"
+  },
+  "Name": "Lumberjack Backpack",
+  "Type": "lumberjack_backpack"
+},{
+  "_id": {
+    "$oid": "5e5448ed6d342549bc988049"
+  },
+  "Name": "Lumberjack Garb",
+  "Type": "lumberjack_garb"
+},{
+  "_id": {
+    "$oid": "5e5448d96d342549bc988048"
+  },
+  "Name": "Quarrier Workboots",
+  "Type": "quarrier_workboots"
+},{
+  "_id": {
+    "$oid": "5e5449106d342549bc98804b"
+  },
+  "Name": "Lumberjack Cap",
+  "Type": "lumberjack_cap"
+},{
+  "_id": {
+    "$oid": "5e5449216d342549bc98804c"
+  },
+  "Name": "Lumberjack Workboots",
+  "Type": "lumberjack_workboots"
+},{
+  "_id": {
+    "$oid": "5e548b3a12cff91a3c23ca10"
+  },
+  "Name": "Lumberjack Garb",
+  "Type": "lumberjack_garb"
+},{
+  "_id": {
+    "$oid": "5e548b4d12cff91a3c23ca11"
+  },
+  "Name": "Lumberjack Backpack",
+  "Type": "lumberjack_backpack"
+},{
+  "_id": {
+    "$oid": "5e548b5d12cff91a3c23ca12"
+  },
+  "Name": "Lumberjack Cap",
+  "Type": "lumberjack_cap"
+},{
+  "_id": {
+    "$oid": "5e548b7712cff91a3c23ca13"
+  },
+  "Name": "Lumberjack Workboots",
+  "Type": "lumberjack_workboots"
+}]

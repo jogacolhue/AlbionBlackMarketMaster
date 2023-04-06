@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc19801d"
+  },
+  "UniqueName": "T4_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc19801a"
+  },
+  "UniqueName": "T1_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc19801c"
+  },
+  "UniqueName": "T3_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc19801b"
+  },
+  "UniqueName": "T2_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc19801e"
+  },
+  "UniqueName": "T5_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc19801f"
+  },
+  "UniqueName": "T6_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198020"
+  },
+  "UniqueName": "T7_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198021"
+  },
+  "UniqueName": "T8_2H_TOOL_HAMMER"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198022"
+  },
+  "UniqueName": "T4_2H_TOOL_HAMMER_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198023"
+  },
+  "UniqueName": "T5_2H_TOOL_HAMMER_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198024"
+  },
+  "UniqueName": "T6_2H_TOOL_HAMMER_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198025"
+  },
+  "UniqueName": "T7_2H_TOOL_HAMMER_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498ce3bb4fd49bc198026"
+  },
+  "UniqueName": "T8_2H_TOOL_HAMMER_AVALON"
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dca"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dc9"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dcb"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dc8"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dcc"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dcd"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dcf"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd0"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dce"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd2"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd3"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd4"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd1"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd5"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd6"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd7"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd8"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dd9"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197dda"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d3f3bb4fd49bc197ddb"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_HIDE@3"
+}]

@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dc9f"
+  },
+  "UniqueName": "T3_MAIN_DAGGER"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca0"
+  },
+  "UniqueName": "T4_MAIN_DAGGER"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca1"
+  },
+  "UniqueName": "T4_MAIN_DAGGER@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca2"
+  },
+  "UniqueName": "T4_MAIN_DAGGER@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca3"
+  },
+  "UniqueName": "T4_MAIN_DAGGER@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca4"
+  },
+  "UniqueName": "T5_MAIN_DAGGER"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca5"
+  },
+  "UniqueName": "T5_MAIN_DAGGER@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca6"
+  },
+  "UniqueName": "T5_MAIN_DAGGER@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca7"
+  },
+  "UniqueName": "T5_MAIN_DAGGER@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca8"
+  },
+  "UniqueName": "T6_MAIN_DAGGER"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dca9"
+  },
+  "UniqueName": "T6_MAIN_DAGGER@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcaa"
+  },
+  "UniqueName": "T6_MAIN_DAGGER@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcab"
+  },
+  "UniqueName": "T6_MAIN_DAGGER@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcac"
+  },
+  "UniqueName": "T7_MAIN_DAGGER"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcad"
+  },
+  "UniqueName": "T7_MAIN_DAGGER@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcae"
+  },
+  "UniqueName": "T7_MAIN_DAGGER@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcaf"
+  },
+  "UniqueName": "T7_MAIN_DAGGER@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb0"
+  },
+  "UniqueName": "T8_MAIN_DAGGER"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb1"
+  },
+  "UniqueName": "T8_MAIN_DAGGER@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb2"
+  },
+  "UniqueName": "T8_MAIN_DAGGER@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb3"
+  },
+  "UniqueName": "T8_MAIN_DAGGER@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb4"
+  },
+  "UniqueName": "T4_2H_DAGGERPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb5"
+  },
+  "UniqueName": "T4_2H_DAGGERPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb6"
+  },
+  "UniqueName": "T4_2H_DAGGERPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb7"
+  },
+  "UniqueName": "T4_2H_DAGGERPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb8"
+  },
+  "UniqueName": "T5_2H_DAGGERPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcb9"
+  },
+  "UniqueName": "T5_2H_DAGGERPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcba"
+  },
+  "UniqueName": "T5_2H_DAGGERPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcbb"
+  },
+  "UniqueName": "T5_2H_DAGGERPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcbc"
+  },
+  "UniqueName": "T6_2H_DAGGERPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcbd"
+  },
+  "UniqueName": "T6_2H_DAGGERPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcbe"
+  },
+  "UniqueName": "T6_2H_DAGGERPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcbf"
+  },
+  "UniqueName": "T6_2H_DAGGERPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc0"
+  },
+  "UniqueName": "T7_2H_DAGGERPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc1"
+  },
+  "UniqueName": "T7_2H_DAGGERPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc2"
+  },
+  "UniqueName": "T7_2H_DAGGERPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc3"
+  },
+  "UniqueName": "T7_2H_DAGGERPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc4"
+  },
+  "UniqueName": "T8_2H_DAGGERPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc5"
+  },
+  "UniqueName": "T8_2H_DAGGERPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc6"
+  },
+  "UniqueName": "T8_2H_DAGGERPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc7"
+  },
+  "UniqueName": "T8_2H_DAGGERPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc8"
+  },
+  "UniqueName": "T4_2H_CLAWPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcc9"
+  },
+  "UniqueName": "T4_2H_CLAWPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcca"
+  },
+  "UniqueName": "T4_2H_CLAWPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dccb"
+  },
+  "UniqueName": "T4_2H_CLAWPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dccc"
+  },
+  "UniqueName": "T5_2H_CLAWPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dccd"
+  },
+  "UniqueName": "T5_2H_CLAWPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcce"
+  },
+  "UniqueName": "T5_2H_CLAWPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dccf"
+  },
+  "UniqueName": "T5_2H_CLAWPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd0"
+  },
+  "UniqueName": "T6_2H_CLAWPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd1"
+  },
+  "UniqueName": "T6_2H_CLAWPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd2"
+  },
+  "UniqueName": "T6_2H_CLAWPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd3"
+  },
+  "UniqueName": "T6_2H_CLAWPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd4"
+  },
+  "UniqueName": "T7_2H_CLAWPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd5"
+  },
+  "UniqueName": "T7_2H_CLAWPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd6"
+  },
+  "UniqueName": "T7_2H_CLAWPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd7"
+  },
+  "UniqueName": "T7_2H_CLAWPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd8"
+  },
+  "UniqueName": "T8_2H_CLAWPAIR"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcd9"
+  },
+  "UniqueName": "T8_2H_CLAWPAIR@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcda"
+  },
+  "UniqueName": "T8_2H_CLAWPAIR@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcdb"
+  },
+  "UniqueName": "T8_2H_CLAWPAIR@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcdc"
+  },
+  "UniqueName": "T4_MAIN_RAPIER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcdd"
+  },
+  "UniqueName": "T4_MAIN_RAPIER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcde"
+  },
+  "UniqueName": "T4_MAIN_RAPIER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcdf"
+  },
+  "UniqueName": "T4_MAIN_RAPIER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce0"
+  },
+  "UniqueName": "T5_MAIN_RAPIER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce1"
+  },
+  "UniqueName": "T5_MAIN_RAPIER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce2"
+  },
+  "UniqueName": "T5_MAIN_RAPIER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce3"
+  },
+  "UniqueName": "T5_MAIN_RAPIER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce4"
+  },
+  "UniqueName": "T6_MAIN_RAPIER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce5"
+  },
+  "UniqueName": "T6_MAIN_RAPIER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce6"
+  },
+  "UniqueName": "T6_MAIN_RAPIER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce7"
+  },
+  "UniqueName": "T6_MAIN_RAPIER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce8"
+  },
+  "UniqueName": "T7_MAIN_RAPIER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dce9"
+  },
+  "UniqueName": "T7_MAIN_RAPIER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcea"
+  },
+  "UniqueName": "T7_MAIN_RAPIER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dceb"
+  },
+  "UniqueName": "T7_MAIN_RAPIER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcec"
+  },
+  "UniqueName": "T8_MAIN_RAPIER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dced"
+  },
+  "UniqueName": "T8_MAIN_RAPIER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcee"
+  },
+  "UniqueName": "T8_MAIN_RAPIER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcef"
+  },
+  "UniqueName": "T8_MAIN_RAPIER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf0"
+  },
+  "UniqueName": "T4_2H_IRONGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf1"
+  },
+  "UniqueName": "T4_2H_IRONGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf2"
+  },
+  "UniqueName": "T4_2H_IRONGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf3"
+  },
+  "UniqueName": "T4_2H_IRONGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf4"
+  },
+  "UniqueName": "T5_2H_IRONGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf5"
+  },
+  "UniqueName": "T5_2H_IRONGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf6"
+  },
+  "UniqueName": "T5_2H_IRONGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf7"
+  },
+  "UniqueName": "T5_2H_IRONGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf8"
+  },
+  "UniqueName": "T6_2H_IRONGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcf9"
+  },
+  "UniqueName": "T6_2H_IRONGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcfa"
+  },
+  "UniqueName": "T6_2H_IRONGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcfb"
+  },
+  "UniqueName": "T6_2H_IRONGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcfc"
+  },
+  "UniqueName": "T7_2H_IRONGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcfd"
+  },
+  "UniqueName": "T7_2H_IRONGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcfe"
+  },
+  "UniqueName": "T7_2H_IRONGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dcff"
+  },
+  "UniqueName": "T7_2H_IRONGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd00"
+  },
+  "UniqueName": "T8_2H_IRONGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd01"
+  },
+  "UniqueName": "T8_2H_IRONGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd02"
+  },
+  "UniqueName": "T8_2H_IRONGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd03"
+  },
+  "UniqueName": "T8_2H_IRONGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd04"
+  },
+  "UniqueName": "T4_2H_DUALSICKLE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd05"
+  },
+  "UniqueName": "T4_2H_DUALSICKLE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd06"
+  },
+  "UniqueName": "T4_2H_DUALSICKLE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd07"
+  },
+  "UniqueName": "T4_2H_DUALSICKLE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd08"
+  },
+  "UniqueName": "T5_2H_DUALSICKLE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd09"
+  },
+  "UniqueName": "T5_2H_DUALSICKLE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd0a"
+  },
+  "UniqueName": "T5_2H_DUALSICKLE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd0b"
+  },
+  "UniqueName": "T5_2H_DUALSICKLE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd0c"
+  },
+  "UniqueName": "T6_2H_DUALSICKLE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd0d"
+  },
+  "UniqueName": "T6_2H_DUALSICKLE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd0e"
+  },
+  "UniqueName": "T6_2H_DUALSICKLE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd0f"
+  },
+  "UniqueName": "T6_2H_DUALSICKLE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd10"
+  },
+  "UniqueName": "T7_2H_DUALSICKLE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd11"
+  },
+  "UniqueName": "T7_2H_DUALSICKLE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd12"
+  },
+  "UniqueName": "T7_2H_DUALSICKLE_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd13"
+  },
+  "UniqueName": "T7_2H_DUALSICKLE_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd14"
+  },
+  "UniqueName": "T8_2H_DUALSICKLE_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd15"
+  },
+  "UniqueName": "T8_2H_DUALSICKLE_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5491559a5f491a3c42dd16"
+  },
+  "UniqueName": "T8_2H_DUALSICKLE_UNDEAD@2"
+}]

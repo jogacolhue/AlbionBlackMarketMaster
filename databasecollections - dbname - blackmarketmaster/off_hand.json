@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5e544b626d342549bc98805c"
+  },
+  "Type": "orb",
+  "Name": "Orb"
+},{
+  "_id": {
+    "$oid": "5e544b256d342549bc98805a"
+  },
+  "Type": "book",
+  "Name": "Book"
+},{
+  "_id": {
+    "$oid": "5e544b6f6d342549bc98805d"
+  },
+  "Type": "shield",
+  "Name": "Shield"
+},{
+  "_id": {
+    "$oid": "5e544b426d342549bc98805b"
+  },
+  "Type": "horn",
+  "Name": "Horn"
+},{
+  "_id": {
+    "$oid": "5e544b906d342549bc98805f"
+  },
+  "Type": "totem",
+  "Name": "Totem"
+},{
+  "_id": {
+    "$oid": "5e544b7e6d342549bc98805e"
+  },
+  "Type": "torch",
+  "Name": "Torch"
+}]

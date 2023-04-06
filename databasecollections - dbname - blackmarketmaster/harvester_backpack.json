@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c25"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c24"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c27"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c26"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c28"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c29"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c2b"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c2a"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c2c"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c2d"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c2e"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c30"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c31"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c32"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c33"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c34"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_FIBER"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c35"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_FIBER@1"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c2f"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_FIBER@3"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c36"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_FIBER@2"
+},{
+  "_id": {
+    "$oid": "5e54510c3bb4fd49bc197c37"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_FIBER@3"
+}]

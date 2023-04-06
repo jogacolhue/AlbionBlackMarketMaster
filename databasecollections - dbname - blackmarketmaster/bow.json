@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197eec"
+  },
+  "UniqueName": "T2_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197eed"
+  },
+  "UniqueName": "T3_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197eee"
+  },
+  "UniqueName": "T4_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197eef"
+  },
+  "UniqueName": "T4_2H_BOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef0"
+  },
+  "UniqueName": "T4_2H_BOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef1"
+  },
+  "UniqueName": "T4_2H_BOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef2"
+  },
+  "UniqueName": "T5_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef3"
+  },
+  "UniqueName": "T5_2H_BOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef4"
+  },
+  "UniqueName": "T5_2H_BOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef5"
+  },
+  "UniqueName": "T5_2H_BOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef6"
+  },
+  "UniqueName": "T6_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef7"
+  },
+  "UniqueName": "T6_2H_BOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef8"
+  },
+  "UniqueName": "T6_2H_BOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197ef9"
+  },
+  "UniqueName": "T6_2H_BOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197efa"
+  },
+  "UniqueName": "T7_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197efb"
+  },
+  "UniqueName": "T7_2H_BOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197efc"
+  },
+  "UniqueName": "T7_2H_BOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197efd"
+  },
+  "UniqueName": "T7_2H_BOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197efe"
+  },
+  "UniqueName": "T8_2H_BOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197eff"
+  },
+  "UniqueName": "T8_2H_BOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f00"
+  },
+  "UniqueName": "T8_2H_BOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f01"
+  },
+  "UniqueName": "T8_2H_BOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f02"
+  },
+  "UniqueName": "T4_2H_WARBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f03"
+  },
+  "UniqueName": "T4_2H_WARBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f04"
+  },
+  "UniqueName": "T4_2H_WARBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f05"
+  },
+  "UniqueName": "T4_2H_WARBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f06"
+  },
+  "UniqueName": "T5_2H_WARBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f07"
+  },
+  "UniqueName": "T5_2H_WARBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f08"
+  },
+  "UniqueName": "T5_2H_WARBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f09"
+  },
+  "UniqueName": "T5_2H_WARBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f0a"
+  },
+  "UniqueName": "T6_2H_WARBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f0b"
+  },
+  "UniqueName": "T6_2H_WARBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f0c"
+  },
+  "UniqueName": "T6_2H_WARBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f0d"
+  },
+  "UniqueName": "T6_2H_WARBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f0e"
+  },
+  "UniqueName": "T7_2H_WARBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f0f"
+  },
+  "UniqueName": "T7_2H_WARBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f10"
+  },
+  "UniqueName": "T7_2H_WARBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f11"
+  },
+  "UniqueName": "T7_2H_WARBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f12"
+  },
+  "UniqueName": "T8_2H_WARBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f13"
+  },
+  "UniqueName": "T8_2H_WARBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f14"
+  },
+  "UniqueName": "T8_2H_WARBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f15"
+  },
+  "UniqueName": "T8_2H_WARBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f16"
+  },
+  "UniqueName": "T4_2H_LONGBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f17"
+  },
+  "UniqueName": "T4_2H_LONGBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f18"
+  },
+  "UniqueName": "T4_2H_LONGBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f19"
+  },
+  "UniqueName": "T4_2H_LONGBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f1a"
+  },
+  "UniqueName": "T5_2H_LONGBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f1b"
+  },
+  "UniqueName": "T5_2H_LONGBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f1c"
+  },
+  "UniqueName": "T5_2H_LONGBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f1d"
+  },
+  "UniqueName": "T5_2H_LONGBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f1e"
+  },
+  "UniqueName": "T6_2H_LONGBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f1f"
+  },
+  "UniqueName": "T6_2H_LONGBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f20"
+  },
+  "UniqueName": "T6_2H_LONGBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f21"
+  },
+  "UniqueName": "T6_2H_LONGBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f22"
+  },
+  "UniqueName": "T7_2H_LONGBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f23"
+  },
+  "UniqueName": "T7_2H_LONGBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f24"
+  },
+  "UniqueName": "T7_2H_LONGBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f25"
+  },
+  "UniqueName": "T7_2H_LONGBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f26"
+  },
+  "UniqueName": "T8_2H_LONGBOW"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f27"
+  },
+  "UniqueName": "T8_2H_LONGBOW@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f28"
+  },
+  "UniqueName": "T8_2H_LONGBOW@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f29"
+  },
+  "UniqueName": "T8_2H_LONGBOW@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f2a"
+  },
+  "UniqueName": "T4_2H_LONGBOW_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f2b"
+  },
+  "UniqueName": "T4_2H_LONGBOW_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f2c"
+  },
+  "UniqueName": "T4_2H_LONGBOW_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f2d"
+  },
+  "UniqueName": "T4_2H_LONGBOW_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f2e"
+  },
+  "UniqueName": "T5_2H_LONGBOW_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f2f"
+  },
+  "UniqueName": "T5_2H_LONGBOW_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f30"
+  },
+  "UniqueName": "T5_2H_LONGBOW_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f31"
+  },
+  "UniqueName": "T5_2H_LONGBOW_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f32"
+  },
+  "UniqueName": "T6_2H_LONGBOW_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f33"
+  },
+  "UniqueName": "T6_2H_LONGBOW_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f34"
+  },
+  "UniqueName": "T6_2H_LONGBOW_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f35"
+  },
+  "UniqueName": "T6_2H_LONGBOW_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f36"
+  },
+  "UniqueName": "T7_2H_LONGBOW_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f37"
+  },
+  "UniqueName": "T7_2H_LONGBOW_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f38"
+  },
+  "UniqueName": "T7_2H_LONGBOW_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f39"
+  },
+  "UniqueName": "T7_2H_LONGBOW_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f3a"
+  },
+  "UniqueName": "T8_2H_LONGBOW_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f3b"
+  },
+  "UniqueName": "T8_2H_LONGBOW_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f3c"
+  },
+  "UniqueName": "T8_2H_LONGBOW_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f3d"
+  },
+  "UniqueName": "T8_2H_LONGBOW_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f3e"
+  },
+  "UniqueName": "T4_2H_BOW_HELL"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f3f"
+  },
+  "UniqueName": "T4_2H_BOW_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f40"
+  },
+  "UniqueName": "T4_2H_BOW_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f41"
+  },
+  "UniqueName": "T4_2H_BOW_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f42"
+  },
+  "UniqueName": "T5_2H_BOW_HELL"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f43"
+  },
+  "UniqueName": "T5_2H_BOW_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f44"
+  },
+  "UniqueName": "T5_2H_BOW_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f45"
+  },
+  "UniqueName": "T5_2H_BOW_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f46"
+  },
+  "UniqueName": "T6_2H_BOW_HELL"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f47"
+  },
+  "UniqueName": "T6_2H_BOW_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f48"
+  },
+  "UniqueName": "T6_2H_BOW_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f49"
+  },
+  "UniqueName": "T6_2H_BOW_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f4a"
+  },
+  "UniqueName": "T7_2H_BOW_HELL"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f4b"
+  },
+  "UniqueName": "T7_2H_BOW_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f4c"
+  },
+  "UniqueName": "T7_2H_BOW_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f4d"
+  },
+  "UniqueName": "T7_2H_BOW_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f4e"
+  },
+  "UniqueName": "T8_2H_BOW_HELL"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f4f"
+  },
+  "UniqueName": "T8_2H_BOW_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f50"
+  },
+  "UniqueName": "T8_2H_BOW_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f51"
+  },
+  "UniqueName": "T8_2H_BOW_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f52"
+  },
+  "UniqueName": "T4_2H_BOW_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f53"
+  },
+  "UniqueName": "T4_2H_BOW_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f54"
+  },
+  "UniqueName": "T4_2H_BOW_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f55"
+  },
+  "UniqueName": "T4_2H_BOW_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f56"
+  },
+  "UniqueName": "T5_2H_BOW_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f57"
+  },
+  "UniqueName": "T5_2H_BOW_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f58"
+  },
+  "UniqueName": "T5_2H_BOW_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f59"
+  },
+  "UniqueName": "T5_2H_BOW_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f5a"
+  },
+  "UniqueName": "T6_2H_BOW_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f5b"
+  },
+  "UniqueName": "T6_2H_BOW_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f5c"
+  },
+  "UniqueName": "T6_2H_BOW_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f5d"
+  },
+  "UniqueName": "T6_2H_BOW_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f5e"
+  },
+  "UniqueName": "T7_2H_BOW_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f5f"
+  },
+  "UniqueName": "T7_2H_BOW_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f60"
+  },
+  "UniqueName": "T7_2H_BOW_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f61"
+  },
+  "UniqueName": "T7_2H_BOW_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f62"
+  },
+  "UniqueName": "T8_2H_BOW_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5497143bb4fd49bc197f63"
+  },
+  "UniqueName": "T8_2H_BOW_KEEPER@1"
+}]

@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe620"
+  },
+  "UniqueName": "T1_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe621"
+  },
+  "UniqueName": "T2_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe623"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe622"
+  },
+  "UniqueName": "T3_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe624"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe625"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe626"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe627"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe628"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe62c"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe629"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe62d"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe62b"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe62e"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe62f"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe62a"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe630"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe631"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe632"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe633"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe635"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe637"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe638"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe636"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe639"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe634"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe63d"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe63c"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe63b"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe63a"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe63e"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe63f"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe640"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe641"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe644"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe645"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe643"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe646"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe647"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe648"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe642"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe649"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe64a"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe64d"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe64c"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe64f"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe650"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe64b"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe652"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe64e"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe651"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe653"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe654"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe655"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe657"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe659"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe658"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe65a"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe656"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe65b"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe65c"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe65d"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe65e"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe65f"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe660"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe661"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe663"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe664"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe666"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe662"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe667"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe669"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe668"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe66a"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe66b"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe665"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe66e"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe66f"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe66d"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe670"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe671"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe672"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe673"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe674"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe66c"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe676"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe675"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe678"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe67a"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe679"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe67b"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe67c"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe67d"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe677"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe67e"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe682"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe67f"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe680"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe681"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe685"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe684"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe686"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe687"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe688"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe689"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe68b"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe68c"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe68d"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe68a"
+  },
+  "UniqueName": "T4_HEAD_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe68e"
+  },
+  "UniqueName": "T5_HEAD_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe691"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe68f"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe690"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe683"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe695"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe696"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe692"
+  },
+  "UniqueName": "T6_HEAD_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe693"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe697"
+  },
+  "UniqueName": "T8_HEAD_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bdde4305e526049fe694"
+  },
+  "UniqueName": "T7_HEAD_LEATHER_UNDEAD@1"
+}]

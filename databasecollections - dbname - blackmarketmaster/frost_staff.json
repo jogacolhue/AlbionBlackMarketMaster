@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db3a"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db37"
+  },
+  "UniqueName": "T3_MAIN_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db39"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db38"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db3b"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db3c"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db3d"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db3e"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db3f"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db41"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db43"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db44"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db45"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db46"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db47"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db48"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db40"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db42"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db49"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db4b"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db4d"
+  },
+  "UniqueName": "T4_2H_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db4a"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db4c"
+  },
+  "UniqueName": "T4_2H_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db4e"
+  },
+  "UniqueName": "T4_2H_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db4f"
+  },
+  "UniqueName": "T4_2H_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db51"
+  },
+  "UniqueName": "T5_2H_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db50"
+  },
+  "UniqueName": "T5_2H_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db52"
+  },
+  "UniqueName": "T5_2H_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db53"
+  },
+  "UniqueName": "T5_2H_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db56"
+  },
+  "UniqueName": "T6_2H_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db54"
+  },
+  "UniqueName": "T6_2H_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db57"
+  },
+  "UniqueName": "T6_2H_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db58"
+  },
+  "UniqueName": "T7_2H_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db59"
+  },
+  "UniqueName": "T7_2H_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db5a"
+  },
+  "UniqueName": "T7_2H_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db5b"
+  },
+  "UniqueName": "T7_2H_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db55"
+  },
+  "UniqueName": "T6_2H_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db5c"
+  },
+  "UniqueName": "T8_2H_FROSTSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db5f"
+  },
+  "UniqueName": "T8_2H_FROSTSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db60"
+  },
+  "UniqueName": "T4_2H_GLACIALSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db61"
+  },
+  "UniqueName": "T4_2H_GLACIALSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db63"
+  },
+  "UniqueName": "T4_2H_GLACIALSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db64"
+  },
+  "UniqueName": "T5_2H_GLACIALSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db5e"
+  },
+  "UniqueName": "T8_2H_FROSTSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db5d"
+  },
+  "UniqueName": "T8_2H_FROSTSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db62"
+  },
+  "UniqueName": "T4_2H_GLACIALSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db65"
+  },
+  "UniqueName": "T5_2H_GLACIALSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db66"
+  },
+  "UniqueName": "T5_2H_GLACIALSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db69"
+  },
+  "UniqueName": "T6_2H_GLACIALSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db67"
+  },
+  "UniqueName": "T5_2H_GLACIALSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db6a"
+  },
+  "UniqueName": "T6_2H_GLACIALSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db68"
+  },
+  "UniqueName": "T6_2H_GLACIALSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db6e"
+  },
+  "UniqueName": "T7_2H_GLACIALSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db6d"
+  },
+  "UniqueName": "T7_2H_GLACIALSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db6b"
+  },
+  "UniqueName": "T6_2H_GLACIALSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db6f"
+  },
+  "UniqueName": "T7_2H_GLACIALSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db70"
+  },
+  "UniqueName": "T8_2H_GLACIALSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db71"
+  },
+  "UniqueName": "T8_2H_GLACIALSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db72"
+  },
+  "UniqueName": "T8_2H_GLACIALSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db6c"
+  },
+  "UniqueName": "T7_2H_GLACIALSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db76"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db75"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db77"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db78"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db73"
+  },
+  "UniqueName": "T8_2H_GLACIALSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db7a"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db79"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db74"
+  },
+  "UniqueName": "T4_MAIN_FROSTSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db7d"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db7e"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db7f"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db80"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db7b"
+  },
+  "UniqueName": "T5_MAIN_FROSTSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db81"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db82"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db7c"
+  },
+  "UniqueName": "T6_MAIN_FROSTSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db86"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db85"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db83"
+  },
+  "UniqueName": "T7_MAIN_FROSTSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db87"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db88"
+  },
+  "UniqueName": "T4_2H_ICEGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db89"
+  },
+  "UniqueName": "T4_2H_ICEGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db8a"
+  },
+  "UniqueName": "T4_2H_ICEGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db84"
+  },
+  "UniqueName": "T8_MAIN_FROSTSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db8e"
+  },
+  "UniqueName": "T5_2H_ICEGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db8d"
+  },
+  "UniqueName": "T5_2H_ICEGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db8f"
+  },
+  "UniqueName": "T5_2H_ICEGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db91"
+  },
+  "UniqueName": "T6_2H_ICEGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db90"
+  },
+  "UniqueName": "T6_2H_ICEGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db92"
+  },
+  "UniqueName": "T6_2H_ICEGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db8b"
+  },
+  "UniqueName": "T4_2H_ICEGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db93"
+  },
+  "UniqueName": "T6_2H_ICEGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db95"
+  },
+  "UniqueName": "T7_2H_ICEGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db96"
+  },
+  "UniqueName": "T7_2H_ICEGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db97"
+  },
+  "UniqueName": "T7_2H_ICEGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db98"
+  },
+  "UniqueName": "T8_2H_ICEGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db99"
+  },
+  "UniqueName": "T8_2H_ICEGAUNTLETS_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db8c"
+  },
+  "UniqueName": "T5_2H_ICEGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db9a"
+  },
+  "UniqueName": "T8_2H_ICEGAUNTLETS_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db94"
+  },
+  "UniqueName": "T7_2H_ICEGAUNTLETS_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db9c"
+  },
+  "UniqueName": "T4_2H_ICECRYSTAL_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db9b"
+  },
+  "UniqueName": "T8_2H_ICEGAUNTLETS_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db9f"
+  },
+  "UniqueName": "T4_2H_ICECRYSTAL_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba0"
+  },
+  "UniqueName": "T5_2H_ICECRYSTAL_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba1"
+  },
+  "UniqueName": "T5_2H_ICECRYSTAL_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba2"
+  },
+  "UniqueName": "T5_2H_ICECRYSTAL_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba3"
+  },
+  "UniqueName": "T5_2H_ICECRYSTAL_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db9e"
+  },
+  "UniqueName": "T4_2H_ICECRYSTAL_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba5"
+  },
+  "UniqueName": "T6_2H_ICECRYSTAL_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba4"
+  },
+  "UniqueName": "T6_2H_ICECRYSTAL_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba6"
+  },
+  "UniqueName": "T6_2H_ICECRYSTAL_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba7"
+  },
+  "UniqueName": "T6_2H_ICECRYSTAL_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba8"
+  },
+  "UniqueName": "T7_2H_ICECRYSTAL_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42db9d"
+  },
+  "UniqueName": "T4_2H_ICECRYSTAL_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dba9"
+  },
+  "UniqueName": "T7_2H_ICECRYSTAL_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dbaa"
+  },
+  "UniqueName": "T7_2H_ICECRYSTAL_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dbab"
+  },
+  "UniqueName": "T7_2H_ICECRYSTAL_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dbac"
+  },
+  "UniqueName": "T8_2H_ICECRYSTAL_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dbad"
+  },
+  "UniqueName": "T8_2H_ICECRYSTAL_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f5d9a5f491a3c42dbae"
+  },
+  "UniqueName": "T8_2H_ICECRYSTAL_UNDEAD@2"
+}]

@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe440"
+  },
+  "UniqueName": "T2_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe441"
+  },
+  "UniqueName": "T3_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe442"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe443"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe444"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe445"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe446"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe447"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe448"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe449"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe44a"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe44b"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe44c"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe44d"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe44e"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe44f"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe450"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe451"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe452"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe453"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe454"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe455"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe456"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe457"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe458"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe459"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe45a"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe45b"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe45c"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe45d"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe45e"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe45f"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe460"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe461"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe462"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe463"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe464"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe465"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe466"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe467"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe468"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe469"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe46a"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe46b"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe46c"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe46d"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe46e"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe46f"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe470"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe471"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe472"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe473"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe474"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe475"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe476"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe477"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe478"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe479"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe47a"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe47b"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe47c"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe47d"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe47e"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe47f"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe480"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe481"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe482"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe483"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe484"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe485"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe486"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe487"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe488"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe489"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe48a"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe48b"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe48c"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe48d"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe48e"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe48f"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe490"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe491"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe492"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe493"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe494"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe495"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe496"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe497"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe498"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe499"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe49a"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe49b"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe49c"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe49d"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe49e"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe49f"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a0"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a1"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a2"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a3"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a4"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a5"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a6"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a7"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a8"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4a9"
+  },
+  "UniqueName": "T4_ARMOR_CLOTH_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4aa"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4ab"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4ac"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4ad"
+  },
+  "UniqueName": "T5_ARMOR_CLOTH_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4ae"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4af"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b0"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b1"
+  },
+  "UniqueName": "T6_ARMOR_CLOTH_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b2"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b3"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b4"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b5"
+  },
+  "UniqueName": "T7_ARMOR_CLOTH_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b6"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bbc64305e526049fe4b7"
+  },
+  "UniqueName": "T8_ARMOR_CLOTH_MORGANA@1"
+}]

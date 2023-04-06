@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe698"
+  },
+  "UniqueName": "T1_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe69b"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe699"
+  },
+  "UniqueName": "T2_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe69a"
+  },
+  "UniqueName": "T3_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe69c"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe69d"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe69e"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe69f"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a0"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a1"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a4"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a5"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a2"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a6"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a7"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a8"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a9"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6a3"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ac"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET1@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ad"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET1@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ae"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ab"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6af"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6aa"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET1@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b0"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b1"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b2"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b3"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b6"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b7"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b4"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b5"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b9"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ba"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6b8"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6bb"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6bc"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6bf"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6be"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c0"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET2@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c1"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c2"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET2@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c3"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c4"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6bd"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET2@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c6"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c5"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c7"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c8"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6c9"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6cc"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6cd"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ca"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ce"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6cf"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d1"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6cb"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d0"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d2"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d4"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET3@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d5"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET3@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d3"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d6"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_SET3@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d7"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d8"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6d9"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6db"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6dd"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6dc"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6de"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6df"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e0"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6da"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e1"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e3"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e5"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e2"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e4"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e7"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e6"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e9"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6e8"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ea"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6eb"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ed"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ee"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ef"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f0"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f1"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f2"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ec"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f3"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f5"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f4"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f7"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f8"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f9"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6f6"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6fd"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6fb"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_HELL"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6fc"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6fa"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6fe"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe6ff"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe700"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe701"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe702"
+  },
+  "UniqueName": "T4_SHOES_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe703"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe705"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe706"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe707"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe708"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe709"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe70a"
+  },
+  "UniqueName": "T6_SHOES_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe704"
+  },
+  "UniqueName": "T5_SHOES_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe70b"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe70c"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe70d"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe70e"
+  },
+  "UniqueName": "T7_SHOES_LEATHER_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e44bea14305e526049fe70f"
+  },
+  "UniqueName": "T8_SHOES_LEATHER_UNDEAD"
+}]

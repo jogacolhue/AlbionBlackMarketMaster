@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb2"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb3"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb4"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb5"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb6"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb7"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb8"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb9"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb0"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbba"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbbc"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbbb"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbbd"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbbf"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbaf"
+  },
+  "UniqueName": "T3_MAIN_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc0"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc1"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc2"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc3"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbb1"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbbe"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc4"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc5"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc6"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc7"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc8"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbc9"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbca"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbcb"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbcc"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbcd"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbce"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd0"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbcf"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd1"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd2"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd3"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd5"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd4"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd6"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd7"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd8"
+  },
+  "UniqueName": "T4_2H_DIVINESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbd9"
+  },
+  "UniqueName": "T4_2H_DIVINESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbda"
+  },
+  "UniqueName": "T4_2H_DIVINESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbdc"
+  },
+  "UniqueName": "T5_2H_DIVINESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbdf"
+  },
+  "UniqueName": "T5_2H_DIVINESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe0"
+  },
+  "UniqueName": "T6_2H_DIVINESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe1"
+  },
+  "UniqueName": "T6_2H_DIVINESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbde"
+  },
+  "UniqueName": "T5_2H_DIVINESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe2"
+  },
+  "UniqueName": "T6_2H_DIVINESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe3"
+  },
+  "UniqueName": "T6_2H_DIVINESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe4"
+  },
+  "UniqueName": "T7_2H_DIVINESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe5"
+  },
+  "UniqueName": "T7_2H_DIVINESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe7"
+  },
+  "UniqueName": "T7_2H_DIVINESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe6"
+  },
+  "UniqueName": "T7_2H_DIVINESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe9"
+  },
+  "UniqueName": "T8_2H_DIVINESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbe8"
+  },
+  "UniqueName": "T8_2H_DIVINESTAFF"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbea"
+  },
+  "UniqueName": "T8_2H_DIVINESTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbeb"
+  },
+  "UniqueName": "T8_2H_DIVINESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbec"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbdb"
+  },
+  "UniqueName": "T4_2H_DIVINESTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbee"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbef"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbdd"
+  },
+  "UniqueName": "T5_2H_DIVINESTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbed"
+  },
+  "UniqueName": "T4_MAIN_HOLYSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf0"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf1"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf2"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf3"
+  },
+  "UniqueName": "T5_MAIN_HOLYSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf4"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf7"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf6"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf8"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf9"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbfa"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbfb"
+  },
+  "UniqueName": "T7_MAIN_HOLYSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbfc"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbf5"
+  },
+  "UniqueName": "T6_MAIN_HOLYSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbff"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbfe"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc00"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc01"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc02"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc03"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc06"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc07"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc08"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dbfd"
+  },
+  "UniqueName": "T8_MAIN_HOLYSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc09"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc0a"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc0b"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc05"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc0e"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc0f"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc10"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc0d"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc11"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc12"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc13"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc0c"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc15"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc16"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc17"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc18"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc19"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc04"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_HELL"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc14"
+  },
+  "UniqueName": "T4_2H_HOLYSTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc1a"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc1c"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc1e"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc1f"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc20"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc21"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc22"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc1d"
+  },
+  "UniqueName": "T6_2H_HOLYSTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc23"
+  },
+  "UniqueName": "T7_2H_HOLYSTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc1b"
+  },
+  "UniqueName": "T5_2H_HOLYSTAFF_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc24"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc25"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e548f649a5f491a3c42dc26"
+  },
+  "UniqueName": "T8_2H_HOLYSTAFF_UNDEAD@2"
+}]

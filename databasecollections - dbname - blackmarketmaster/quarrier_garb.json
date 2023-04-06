@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d7a"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ROCK@2"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d78"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ROCK"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d7b"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ROCK@3"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d79"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ROCK@1"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d7c"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ROCK"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d7e"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ROCK@2"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d7d"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ROCK@1"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d7f"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ROCK@3"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d80"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ROCK"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d81"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ROCK@1"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d85"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ROCK@1"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d82"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ROCK@2"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d84"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ROCK"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d86"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ROCK@2"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d88"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ROCK"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d87"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ROCK@3"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d89"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ROCK@1"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d83"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ROCK@3"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d8a"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ROCK@2"
+},{
+  "_id": {
+    "$oid": "5e548d163bb4fd49bc197d8b"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ROCK@3"
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d2b"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d29"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d28"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d2a"
+  },
+  "UniqueName": "T4_ARMOR_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d2c"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d2e"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d2f"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d30"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d2d"
+  },
+  "UniqueName": "T5_ARMOR_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d31"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d34"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d35"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d36"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d32"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d37"
+  },
+  "UniqueName": "T7_ARMOR_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d38"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d33"
+  },
+  "UniqueName": "T6_ARMOR_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d39"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d3a"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cf33bb4fd49bc197d3b"
+  },
+  "UniqueName": "T8_ARMOR_GATHERER_ORE@3"
+}]

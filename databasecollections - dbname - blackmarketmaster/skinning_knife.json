@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198010"
+  },
+  "UniqueName": "T4_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc19800e"
+  },
+  "UniqueName": "T2_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc19800f"
+  },
+  "UniqueName": "T3_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc19800d"
+  },
+  "UniqueName": "T1_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198011"
+  },
+  "UniqueName": "T5_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198012"
+  },
+  "UniqueName": "T6_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198013"
+  },
+  "UniqueName": "T7_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198014"
+  },
+  "UniqueName": "T8_2H_TOOL_KNIFE"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198015"
+  },
+  "UniqueName": "T4_2H_TOOL_KNIFE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198016"
+  },
+  "UniqueName": "T5_2H_TOOL_KNIFE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198017"
+  },
+  "UniqueName": "T6_2H_TOOL_KNIFE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198018"
+  },
+  "UniqueName": "T7_2H_TOOL_KNIFE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498c23bb4fd49bc198019"
+  },
+  "UniqueName": "T8_2H_TOOL_KNIFE_AVALON"
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5e544c286d342549bc988065"
+  },
+  "Name": "Sickle",
+  "Type": "sickle"
+},{
+  "_id": {
+    "$oid": "5e544bf66d342549bc988062"
+  },
+  "Name": "Demolition Hammer",
+  "Type": "demolition_hammer"
+},{
+  "_id": {
+    "$oid": "5e544c1b6d342549bc988064"
+  },
+  "Name": "Pickaxe",
+  "Type": "pickaxe"
+},{
+  "_id": {
+    "$oid": "5e544c066d342549bc988063"
+  },
+  "Name": "Fishing Rod",
+  "Type": "fishing_rod"
+},{
+  "_id": {
+    "$oid": "5e544c346d342549bc988066"
+  },
+  "Name": "Skinning Knife",
+  "Type": "skinning_knife"
+},{
+  "_id": {
+    "$oid": "5e544c446d342549bc988067"
+  },
+  "Name": "Stone Hammer",
+  "Type": "stone_hammer"
+},{
+  "_id": {
+    "$oid": "5e544c566d342549bc988068"
+  },
+  "Name": "Wood Axe",
+  "Type": "wood_axe"
+}]

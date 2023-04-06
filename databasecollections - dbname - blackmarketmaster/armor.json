@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "5e44c0e5212ede26040d0a37"
+  },
+  "Type": "cloth_armor",
+  "Name": "Cloth Armor"
+},{
+  "_id": {
+    "$oid": "5e44c0f8212ede26040d0a38"
+  },
+  "Type": "cloth_helmet",
+  "Name": "Cloth Helmet"
+},{
+  "_id": {
+    "$oid": "5e44c104212ede26040d0a39"
+  },
+  "Type": "cloth_shoes",
+  "Name": "Cloth Shoes"
+},{
+  "_id": {
+    "$oid": "5e44c15a212ede26040d0a3a"
+  },
+  "Type": "leather_armor",
+  "Name": "Leather Armor"
+},{
+  "_id": {
+    "$oid": "5e44c164212ede26040d0a3b"
+  },
+  "Type": "leather_shoes",
+  "Name": "Leather Shoes"
+},{
+  "_id": {
+    "$oid": "5e44c16e212ede26040d0a3c"
+  },
+  "Type": "plate_armor",
+  "Name": "Plate Armor"
+},{
+  "_id": {
+    "$oid": "5e44c17c212ede26040d0a3d"
+  },
+  "Type": "plate_helmet",
+  "Name": "Plate Helmet"
+},{
+  "_id": {
+    "$oid": "5e44c184212ede26040d0a3e"
+  },
+  "Type": "plate_shoes",
+  "Name": "Plate Shoes"
+},{
+  "_id": {
+    "$oid": "5e44c1a2212ede26040d0a3f"
+  },
+  "Type": "leather_helmet",
+  "Name": "Leather Helmet"
+}]

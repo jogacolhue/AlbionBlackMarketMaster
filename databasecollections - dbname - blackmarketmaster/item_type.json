@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "5e46178405195435d8bb769e"
+  },
+  "Name": "Armor",
+  "Type": "armor"
+},{
+  "_id": {
+    "$oid": "5e5443596d342549bc98802f"
+  },
+  "Name": "Gathering Gear",
+  "Type": "gathering_gear"
+},{
+  "_id": {
+    "$oid": "5e54438b6d342549bc988031"
+  },
+  "Name": "Melee",
+  "Type": "melee"
+},{
+  "_id": {
+    "$oid": "5e54439a6d342549bc988032"
+  },
+  "Name": "Off-Hand",
+  "Type": "off_hand"
+},{
+  "_id": {
+    "$oid": "5e5443b56d342549bc988033"
+  },
+  "Name": "Ranged",
+  "Type": "ranged"
+},{
+  "_id": {
+    "$oid": "5e543e666d342549bc98802c"
+  },
+  "Name": "Accessories",
+  "Type": "accessories"
+},{
+  "_id": {
+    "$oid": "5e5443ca6d342549bc988034"
+  },
+  "Name": "Tool",
+  "Type": "tool"
+},{
+  "_id": {
+    "$oid": "5e5443786d342549bc988030"
+  },
+  "Name": "Magic",
+  "Type": "magic"
+}]

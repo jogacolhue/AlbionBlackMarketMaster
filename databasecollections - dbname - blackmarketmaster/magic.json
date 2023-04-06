@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5e544a216d342549bc98804f"
+  },
+  "Name": "Fire Staff",
+  "Type": "fire_staff"
+},{
+  "_id": {
+    "$oid": "5e5449f36d342549bc98804d"
+  },
+  "Name": "Arcane Staff",
+  "Type": "arcane_staff"
+},{
+  "_id": {
+    "$oid": "5e544a116d342549bc98804e"
+  },
+  "Name": "Cursed Staff",
+  "Type": "cursed_staff"
+},{
+  "_id": {
+    "$oid": "5e544a326d342549bc988050"
+  },
+  "Name": "Frost Staff",
+  "Type": "frost_staff"
+},{
+  "_id": {
+    "$oid": "5e544a446d342549bc988051"
+  },
+  "Name": "Holy Staff",
+  "Type": "holy_staff"
+},{
+  "_id": {
+    "$oid": "5e544a536d342549bc988052"
+  },
+  "Name": "Nature Staff",
+  "Type": "nature_staff"
+}]

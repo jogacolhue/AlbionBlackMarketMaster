@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d3f"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d3d"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d40"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d41"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d42"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d43"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d44"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d46"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d3c"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d47"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d48"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d4a"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d49"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d4b"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d45"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_ORE@1"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d4e"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d4f"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_ORE@3"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d3e"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_ORE@2"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d4c"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_ORE"
+},{
+  "_id": {
+    "$oid": "5e548cfd3bb4fd49bc197d4d"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_ORE@1"
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "5e544ac56d342549bc988056"
+  },
+  "Name": "Mace",
+  "Type": "mace"
+},{
+  "_id": {
+    "$oid": "5e544a896d342549bc988054"
+  },
+  "Name": "Dagger",
+  "Type": "dagger"
+},{
+  "_id": {
+    "$oid": "5e544ad06d342549bc988057"
+  },
+  "Name": "Quarterstaff",
+  "Type": "quarterstaff"
+},{
+  "_id": {
+    "$oid": "5e544adc6d342549bc988058"
+  },
+  "Name": "Spear",
+  "Type": "spear"
+},{
+  "_id": {
+    "$oid": "5e544ae76d342549bc988059"
+  },
+  "Name": "Sword",
+  "Type": "sword"
+},{
+  "_id": {
+    "$oid": "5e544ab96d342549bc988055"
+  },
+  "Name": "Hammer",
+  "Type": "hammer"
+},{
+  "_id": {
+    "$oid": "5e544a7e6d342549bc988053"
+  },
+  "Name": "Axe",
+  "Type": "axe"
+}]

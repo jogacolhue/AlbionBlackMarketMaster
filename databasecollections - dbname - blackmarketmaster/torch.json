@@ -1,0 +1,331 @@
+[{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e96"
+  },
+  "UniqueName": "T3_OFF_TORCH"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e98"
+  },
+  "UniqueName": "T4_OFF_TORCH@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e99"
+  },
+  "UniqueName": "T4_OFF_TORCH@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e97"
+  },
+  "UniqueName": "T4_OFF_TORCH"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e9a"
+  },
+  "UniqueName": "T4_OFF_TORCH@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e9b"
+  },
+  "UniqueName": "T5_OFF_TORCH"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e9d"
+  },
+  "UniqueName": "T5_OFF_TORCH@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e9e"
+  },
+  "UniqueName": "T5_OFF_TORCH@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e9c"
+  },
+  "UniqueName": "T5_OFF_TORCH@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197e9f"
+  },
+  "UniqueName": "T6_OFF_TORCH"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea0"
+  },
+  "UniqueName": "T6_OFF_TORCH@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea3"
+  },
+  "UniqueName": "T7_OFF_TORCH"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea2"
+  },
+  "UniqueName": "T6_OFF_TORCH@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea4"
+  },
+  "UniqueName": "T7_OFF_TORCH@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea5"
+  },
+  "UniqueName": "T7_OFF_TORCH@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea6"
+  },
+  "UniqueName": "T7_OFF_TORCH@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea7"
+  },
+  "UniqueName": "T8_OFF_TORCH"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea1"
+  },
+  "UniqueName": "T6_OFF_TORCH@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea8"
+  },
+  "UniqueName": "T8_OFF_TORCH@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eaa"
+  },
+  "UniqueName": "T8_OFF_TORCH@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eab"
+  },
+  "UniqueName": "T4_OFF_JESTERCANE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eac"
+  },
+  "UniqueName": "T4_OFF_JESTERCANE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ead"
+  },
+  "UniqueName": "T4_OFF_JESTERCANE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eae"
+  },
+  "UniqueName": "T4_OFF_JESTERCANE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ea9"
+  },
+  "UniqueName": "T8_OFF_TORCH@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eaf"
+  },
+  "UniqueName": "T5_OFF_JESTERCANE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb0"
+  },
+  "UniqueName": "T5_OFF_JESTERCANE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb4"
+  },
+  "UniqueName": "T6_OFF_JESTERCANE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb1"
+  },
+  "UniqueName": "T5_OFF_JESTERCANE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb3"
+  },
+  "UniqueName": "T6_OFF_JESTERCANE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb2"
+  },
+  "UniqueName": "T5_OFF_JESTERCANE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb5"
+  },
+  "UniqueName": "T6_OFF_JESTERCANE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb6"
+  },
+  "UniqueName": "T6_OFF_JESTERCANE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb7"
+  },
+  "UniqueName": "T7_OFF_JESTERCANE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb8"
+  },
+  "UniqueName": "T7_OFF_JESTERCANE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eb9"
+  },
+  "UniqueName": "T7_OFF_JESTERCANE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ebb"
+  },
+  "UniqueName": "T8_OFF_JESTERCANE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eba"
+  },
+  "UniqueName": "T7_OFF_JESTERCANE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ebd"
+  },
+  "UniqueName": "T8_OFF_JESTERCANE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ebe"
+  },
+  "UniqueName": "T8_OFF_JESTERCANE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ebf"
+  },
+  "UniqueName": "T4_OFF_LAMP_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec0"
+  },
+  "UniqueName": "T4_OFF_LAMP_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec1"
+  },
+  "UniqueName": "T4_OFF_LAMP_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ebc"
+  },
+  "UniqueName": "T8_OFF_JESTERCANE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec2"
+  },
+  "UniqueName": "T4_OFF_LAMP_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec3"
+  },
+  "UniqueName": "T5_OFF_LAMP_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec4"
+  },
+  "UniqueName": "T5_OFF_LAMP_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec7"
+  },
+  "UniqueName": "T6_OFF_LAMP_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec6"
+  },
+  "UniqueName": "T5_OFF_LAMP_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec9"
+  },
+  "UniqueName": "T6_OFF_LAMP_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec8"
+  },
+  "UniqueName": "T6_OFF_LAMP_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197eca"
+  },
+  "UniqueName": "T6_OFF_LAMP_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ecb"
+  },
+  "UniqueName": "T7_OFF_LAMP_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ece"
+  },
+  "UniqueName": "T7_OFF_LAMP_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ec5"
+  },
+  "UniqueName": "T5_OFF_LAMP_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ecd"
+  },
+  "UniqueName": "T7_OFF_LAMP_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ecc"
+  },
+  "UniqueName": "T7_OFF_LAMP_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed0"
+  },
+  "UniqueName": "T8_OFF_LAMP_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ecf"
+  },
+  "UniqueName": "T8_OFF_LAMP_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed2"
+  },
+  "UniqueName": "T8_OFF_LAMP_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed4"
+  },
+  "UniqueName": "UNIQUE_OFF_VANITY_WEDDING_TUXEDO"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed3"
+  },
+  "UniqueName": "UNIQUE_OFF_VANITY_WEDDING_DRESS"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed5"
+  },
+  "UniqueName": "UNIQUE_OFF_VANITY_PRIEST"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed1"
+  },
+  "UniqueName": "T8_OFF_LAMP_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed6"
+  },
+  "UniqueName": "UNIQUE_OFF_VANITY_INNKEEPER"
+},{
+  "_id": {
+    "$oid": "5e5496663bb4fd49bc197ed7"
+  },
+  "UniqueName": "UNIQUE_OFF_VANITY_PIRATE"
+}]

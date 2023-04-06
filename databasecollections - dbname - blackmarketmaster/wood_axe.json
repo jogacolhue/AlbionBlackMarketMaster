@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc19802a"
+  },
+  "UniqueName": "T4_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198028"
+  },
+  "UniqueName": "T2_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198027"
+  },
+  "UniqueName": "T1_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198029"
+  },
+  "UniqueName": "T3_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc19802c"
+  },
+  "UniqueName": "T6_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc19802b"
+  },
+  "UniqueName": "T5_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc19802d"
+  },
+  "UniqueName": "T7_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc19802e"
+  },
+  "UniqueName": "T8_2H_TOOL_AXE"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc19802f"
+  },
+  "UniqueName": "T4_2H_TOOL_AXE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198030"
+  },
+  "UniqueName": "T5_2H_TOOL_AXE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198033"
+  },
+  "UniqueName": "T8_2H_TOOL_AXE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198031"
+  },
+  "UniqueName": "T6_2H_TOOL_AXE_AVALON"
+},{
+  "_id": {
+    "$oid": "5e5498d83bb4fd49bc198032"
+  },
+  "UniqueName": "T7_2H_TOOL_AXE_AVALON"
+}]

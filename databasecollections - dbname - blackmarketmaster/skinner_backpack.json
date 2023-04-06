@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da1"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da0"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da2"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da3"
+  },
+  "UniqueName": "T4_BACKPACK_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da4"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da6"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da5"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da7"
+  },
+  "UniqueName": "T5_BACKPACK_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da8"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197daa"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197dab"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197da9"
+  },
+  "UniqueName": "T6_BACKPACK_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197dad"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197dae"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197daf"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197dac"
+  },
+  "UniqueName": "T7_BACKPACK_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197db0"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197db1"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197db2"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d283bb4fd49bc197db3"
+  },
+  "UniqueName": "T8_BACKPACK_GATHERER_HIDE@3"
+}]

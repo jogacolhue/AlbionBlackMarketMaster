@@ -1,0 +1,416 @@
+[{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198037"
+  },
+  "UniqueName": "T4_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198034"
+  },
+  "UniqueName": "T1_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198035"
+  },
+  "UniqueName": "T2_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198036"
+  },
+  "UniqueName": "T3_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198038"
+  },
+  "UniqueName": "T4_OFF_SHIELD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198039"
+  },
+  "UniqueName": "T4_OFF_SHIELD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19803b"
+  },
+  "UniqueName": "T5_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19803c"
+  },
+  "UniqueName": "T5_OFF_SHIELD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19803a"
+  },
+  "UniqueName": "T4_OFF_SHIELD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19803d"
+  },
+  "UniqueName": "T5_OFF_SHIELD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19803e"
+  },
+  "UniqueName": "T5_OFF_SHIELD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198040"
+  },
+  "UniqueName": "T6_OFF_SHIELD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198041"
+  },
+  "UniqueName": "T6_OFF_SHIELD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198042"
+  },
+  "UniqueName": "T6_OFF_SHIELD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198043"
+  },
+  "UniqueName": "T7_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198044"
+  },
+  "UniqueName": "T7_OFF_SHIELD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198045"
+  },
+  "UniqueName": "T7_OFF_SHIELD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19803f"
+  },
+  "UniqueName": "T6_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198046"
+  },
+  "UniqueName": "T7_OFF_SHIELD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198049"
+  },
+  "UniqueName": "T8_OFF_SHIELD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198048"
+  },
+  "UniqueName": "T8_OFF_SHIELD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19804a"
+  },
+  "UniqueName": "T8_OFF_SHIELD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19804b"
+  },
+  "UniqueName": "T4_OFF_TOWERSHIELD_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198047"
+  },
+  "UniqueName": "T8_OFF_SHIELD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19804c"
+  },
+  "UniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19804d"
+  },
+  "UniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19804e"
+  },
+  "UniqueName": "T4_OFF_TOWERSHIELD_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19804f"
+  },
+  "UniqueName": "T5_OFF_TOWERSHIELD_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198053"
+  },
+  "UniqueName": "T6_OFF_TOWERSHIELD_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198050"
+  },
+  "UniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198054"
+  },
+  "UniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198055"
+  },
+  "UniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198056"
+  },
+  "UniqueName": "T6_OFF_TOWERSHIELD_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198057"
+  },
+  "UniqueName": "T7_OFF_TOWERSHIELD_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198052"
+  },
+  "UniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198059"
+  },
+  "UniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19805a"
+  },
+  "UniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198058"
+  },
+  "UniqueName": "T7_OFF_TOWERSHIELD_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19805b"
+  },
+  "UniqueName": "T8_OFF_TOWERSHIELD_UNDEAD"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198051"
+  },
+  "UniqueName": "T5_OFF_TOWERSHIELD_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19805c"
+  },
+  "UniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19805d"
+  },
+  "UniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19805e"
+  },
+  "UniqueName": "T8_OFF_TOWERSHIELD_UNDEAD@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19805f"
+  },
+  "UniqueName": "T4_OFF_SHIELD_HELL"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198060"
+  },
+  "UniqueName": "T4_OFF_SHIELD_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198061"
+  },
+  "UniqueName": "T4_OFF_SHIELD_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198064"
+  },
+  "UniqueName": "T5_OFF_SHIELD_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198065"
+  },
+  "UniqueName": "T5_OFF_SHIELD_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198066"
+  },
+  "UniqueName": "T5_OFF_SHIELD_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198062"
+  },
+  "UniqueName": "T4_OFF_SHIELD_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198068"
+  },
+  "UniqueName": "T6_OFF_SHIELD_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198069"
+  },
+  "UniqueName": "T6_OFF_SHIELD_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198067"
+  },
+  "UniqueName": "T6_OFF_SHIELD_HELL"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19806a"
+  },
+  "UniqueName": "T6_OFF_SHIELD_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19806b"
+  },
+  "UniqueName": "T7_OFF_SHIELD_HELL"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19806c"
+  },
+  "UniqueName": "T7_OFF_SHIELD_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19806d"
+  },
+  "UniqueName": "T7_OFF_SHIELD_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198063"
+  },
+  "UniqueName": "T5_OFF_SHIELD_HELL"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19806f"
+  },
+  "UniqueName": "T8_OFF_SHIELD_HELL"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198070"
+  },
+  "UniqueName": "T8_OFF_SHIELD_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19806e"
+  },
+  "UniqueName": "T7_OFF_SHIELD_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198071"
+  },
+  "UniqueName": "T8_OFF_SHIELD_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198072"
+  },
+  "UniqueName": "T8_OFF_SHIELD_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198073"
+  },
+  "UniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198074"
+  },
+  "UniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198075"
+  },
+  "UniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198076"
+  },
+  "UniqueName": "T4_OFF_SPIKEDSHIELD_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19807a"
+  },
+  "UniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198077"
+  },
+  "UniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198079"
+  },
+  "UniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19807b"
+  },
+  "UniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19807d"
+  },
+  "UniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19807c"
+  },
+  "UniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198078"
+  },
+  "UniqueName": "T5_OFF_SPIKEDSHIELD_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19807e"
+  },
+  "UniqueName": "T6_OFF_SPIKEDSHIELD_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198082"
+  },
+  "UniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198081"
+  },
+  "UniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198083"
+  },
+  "UniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198084"
+  },
+  "UniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198085"
+  },
+  "UniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc19807f"
+  },
+  "UniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198086"
+  },
+  "UniqueName": "T8_OFF_SPIKEDSHIELD_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e549ebb3bb4fd49bc198080"
+  },
+  "UniqueName": "T7_OFF_SPIKEDSHIELD_MORGANA@1"
+}]

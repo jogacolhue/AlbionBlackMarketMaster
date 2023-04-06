@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197db6"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197db4"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197db5"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197db7"
+  },
+  "UniqueName": "T4_HEAD_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197db8"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197db9"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dba"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dbb"
+  },
+  "UniqueName": "T5_HEAD_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dbc"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dbd"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc1"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc0"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dbe"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc2"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc3"
+  },
+  "UniqueName": "T7_HEAD_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc4"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc5"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dbf"
+  },
+  "UniqueName": "T6_HEAD_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc6"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d343bb4fd49bc197dc7"
+  },
+  "UniqueName": "T8_HEAD_GATHERER_HIDE@3"
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197ddf"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197ddc"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197dde"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197ddd"
+  },
+  "UniqueName": "T4_SHOES_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de1"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de2"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de0"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de4"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de3"
+  },
+  "UniqueName": "T5_SHOES_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de6"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de7"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de8"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de9"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197dea"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197deb"
+  },
+  "UniqueName": "T7_SHOES_GATHERER_HIDE@3"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197de5"
+  },
+  "UniqueName": "T6_SHOES_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197dec"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_HIDE"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197ded"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_HIDE@1"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197dee"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_HIDE@2"
+},{
+  "_id": {
+    "$oid": "5e548d4b3bb4fd49bc197def"
+  },
+  "UniqueName": "T8_SHOES_GATHERER_HIDE@3"
+}]

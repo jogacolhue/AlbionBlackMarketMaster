@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de08"
+  },
+  "UniqueName": "T4_2H_QUARTERSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de07"
+  },
+  "UniqueName": "T3_2H_QUARTERSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de0c"
+  },
+  "UniqueName": "T5_2H_QUARTERSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de0b"
+  },
+  "UniqueName": "T4_2H_QUARTERSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de0a"
+  },
+  "UniqueName": "T4_2H_QUARTERSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de0e"
+  },
+  "UniqueName": "T5_2H_QUARTERSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de0f"
+  },
+  "UniqueName": "T5_2H_QUARTERSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de0d"
+  },
+  "UniqueName": "T5_2H_QUARTERSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de12"
+  },
+  "UniqueName": "T6_2H_QUARTERSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de13"
+  },
+  "UniqueName": "T6_2H_QUARTERSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de14"
+  },
+  "UniqueName": "T7_2H_QUARTERSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de15"
+  },
+  "UniqueName": "T7_2H_QUARTERSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de09"
+  },
+  "UniqueName": "T4_2H_QUARTERSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de16"
+  },
+  "UniqueName": "T7_2H_QUARTERSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de17"
+  },
+  "UniqueName": "T7_2H_QUARTERSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de19"
+  },
+  "UniqueName": "T8_2H_QUARTERSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de18"
+  },
+  "UniqueName": "T8_2H_QUARTERSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de1b"
+  },
+  "UniqueName": "T8_2H_QUARTERSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de1a"
+  },
+  "UniqueName": "T8_2H_QUARTERSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de1c"
+  },
+  "UniqueName": "T4_2H_IRONCLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de1d"
+  },
+  "UniqueName": "T4_2H_IRONCLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de1e"
+  },
+  "UniqueName": "T4_2H_IRONCLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de10"
+  },
+  "UniqueName": "T6_2H_QUARTERSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de20"
+  },
+  "UniqueName": "T5_2H_IRONCLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de1f"
+  },
+  "UniqueName": "T4_2H_IRONCLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de22"
+  },
+  "UniqueName": "T5_2H_IRONCLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de21"
+  },
+  "UniqueName": "T5_2H_IRONCLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de23"
+  },
+  "UniqueName": "T5_2H_IRONCLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de25"
+  },
+  "UniqueName": "T6_2H_IRONCLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de24"
+  },
+  "UniqueName": "T6_2H_IRONCLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de11"
+  },
+  "UniqueName": "T6_2H_QUARTERSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de28"
+  },
+  "UniqueName": "T7_2H_IRONCLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de29"
+  },
+  "UniqueName": "T7_2H_IRONCLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de2a"
+  },
+  "UniqueName": "T7_2H_IRONCLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de2b"
+  },
+  "UniqueName": "T7_2H_IRONCLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de2c"
+  },
+  "UniqueName": "T8_2H_IRONCLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de2d"
+  },
+  "UniqueName": "T8_2H_IRONCLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de26"
+  },
+  "UniqueName": "T6_2H_IRONCLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de27"
+  },
+  "UniqueName": "T6_2H_IRONCLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de2e"
+  },
+  "UniqueName": "T8_2H_IRONCLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de31"
+  },
+  "UniqueName": "T4_2H_DOUBLEBLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de30"
+  },
+  "UniqueName": "T4_2H_DOUBLEBLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de33"
+  },
+  "UniqueName": "T4_2H_DOUBLEBLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de32"
+  },
+  "UniqueName": "T4_2H_DOUBLEBLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de34"
+  },
+  "UniqueName": "T5_2H_DOUBLEBLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de36"
+  },
+  "UniqueName": "T5_2H_DOUBLEBLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de35"
+  },
+  "UniqueName": "T5_2H_DOUBLEBLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de2f"
+  },
+  "UniqueName": "T8_2H_IRONCLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de37"
+  },
+  "UniqueName": "T5_2H_DOUBLEBLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de38"
+  },
+  "UniqueName": "T6_2H_DOUBLEBLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de39"
+  },
+  "UniqueName": "T6_2H_DOUBLEBLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de3c"
+  },
+  "UniqueName": "T7_2H_DOUBLEBLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de3d"
+  },
+  "UniqueName": "T7_2H_DOUBLEBLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de3b"
+  },
+  "UniqueName": "T6_2H_DOUBLEBLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de3e"
+  },
+  "UniqueName": "T7_2H_DOUBLEBLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de41"
+  },
+  "UniqueName": "T8_2H_DOUBLEBLADEDSTAFF@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de3f"
+  },
+  "UniqueName": "T7_2H_DOUBLEBLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de40"
+  },
+  "UniqueName": "T8_2H_DOUBLEBLADEDSTAFF"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de3a"
+  },
+  "UniqueName": "T6_2H_DOUBLEBLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de45"
+  },
+  "UniqueName": "T4_2H_COMBATSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de46"
+  },
+  "UniqueName": "T4_2H_COMBATSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de44"
+  },
+  "UniqueName": "T4_2H_COMBATSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de42"
+  },
+  "UniqueName": "T8_2H_DOUBLEBLADEDSTAFF@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de48"
+  },
+  "UniqueName": "T5_2H_COMBATSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de49"
+  },
+  "UniqueName": "T5_2H_COMBATSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de43"
+  },
+  "UniqueName": "T8_2H_DOUBLEBLADEDSTAFF@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de4a"
+  },
+  "UniqueName": "T5_2H_COMBATSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de47"
+  },
+  "UniqueName": "T4_2H_COMBATSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de4e"
+  },
+  "UniqueName": "T6_2H_COMBATSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de4d"
+  },
+  "UniqueName": "T6_2H_COMBATSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de4f"
+  },
+  "UniqueName": "T6_2H_COMBATSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de51"
+  },
+  "UniqueName": "T7_2H_COMBATSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de50"
+  },
+  "UniqueName": "T7_2H_COMBATSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de53"
+  },
+  "UniqueName": "T7_2H_COMBATSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de52"
+  },
+  "UniqueName": "T7_2H_COMBATSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de4b"
+  },
+  "UniqueName": "T5_2H_COMBATSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de4c"
+  },
+  "UniqueName": "T6_2H_COMBATSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de57"
+  },
+  "UniqueName": "T8_2H_COMBATSTAFF_MORGANA@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de56"
+  },
+  "UniqueName": "T8_2H_COMBATSTAFF_MORGANA@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de54"
+  },
+  "UniqueName": "T8_2H_COMBATSTAFF_MORGANA"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de58"
+  },
+  "UniqueName": "T4_2H_TWINSCYTHE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de59"
+  },
+  "UniqueName": "T4_2H_TWINSCYTHE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de5a"
+  },
+  "UniqueName": "T4_2H_TWINSCYTHE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de5b"
+  },
+  "UniqueName": "T4_2H_TWINSCYTHE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de5c"
+  },
+  "UniqueName": "T5_2H_TWINSCYTHE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de55"
+  },
+  "UniqueName": "T8_2H_COMBATSTAFF_MORGANA@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de5e"
+  },
+  "UniqueName": "T5_2H_TWINSCYTHE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de5f"
+  },
+  "UniqueName": "T5_2H_TWINSCYTHE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de60"
+  },
+  "UniqueName": "T6_2H_TWINSCYTHE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de61"
+  },
+  "UniqueName": "T6_2H_TWINSCYTHE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de62"
+  },
+  "UniqueName": "T6_2H_TWINSCYTHE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de5d"
+  },
+  "UniqueName": "T5_2H_TWINSCYTHE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de63"
+  },
+  "UniqueName": "T6_2H_TWINSCYTHE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de65"
+  },
+  "UniqueName": "T7_2H_TWINSCYTHE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de68"
+  },
+  "UniqueName": "T8_2H_TWINSCYTHE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de69"
+  },
+  "UniqueName": "T8_2H_TWINSCYTHE_HELL@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de67"
+  },
+  "UniqueName": "T7_2H_TWINSCYTHE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de6b"
+  },
+  "UniqueName": "T8_2H_TWINSCYTHE_HELL@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de6a"
+  },
+  "UniqueName": "T8_2H_TWINSCYTHE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de6d"
+  },
+  "UniqueName": "T4_2H_ROCKSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de66"
+  },
+  "UniqueName": "T7_2H_TWINSCYTHE_HELL@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de6c"
+  },
+  "UniqueName": "T4_2H_ROCKSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de64"
+  },
+  "UniqueName": "T7_2H_TWINSCYTHE_HELL"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de70"
+  },
+  "UniqueName": "T5_2H_ROCKSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de72"
+  },
+  "UniqueName": "T5_2H_ROCKSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de71"
+  },
+  "UniqueName": "T5_2H_ROCKSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de73"
+  },
+  "UniqueName": "T5_2H_ROCKSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de74"
+  },
+  "UniqueName": "T6_2H_ROCKSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de75"
+  },
+  "UniqueName": "T6_2H_ROCKSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de6e"
+  },
+  "UniqueName": "T4_2H_ROCKSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de77"
+  },
+  "UniqueName": "T6_2H_ROCKSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de78"
+  },
+  "UniqueName": "T7_2H_ROCKSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de7a"
+  },
+  "UniqueName": "T7_2H_ROCKSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de79"
+  },
+  "UniqueName": "T7_2H_ROCKSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de6f"
+  },
+  "UniqueName": "T4_2H_ROCKSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de7b"
+  },
+  "UniqueName": "T7_2H_ROCKSTAFF_KEEPER@3"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de7c"
+  },
+  "UniqueName": "T8_2H_ROCKSTAFF_KEEPER"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de76"
+  },
+  "UniqueName": "T6_2H_ROCKSTAFF_KEEPER@2"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de7d"
+  },
+  "UniqueName": "T8_2H_ROCKSTAFF_KEEPER@1"
+},{
+  "_id": {
+    "$oid": "5e5491a29a5f491a3c42de7e"
+  },
+  "UniqueName": "T8_2H_ROCKSTAFF_KEEPER@2"
+}]
